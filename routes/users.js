@@ -7,8 +7,8 @@ module.exports = (app)=>{
         res.setHeader('Content-Type', 'application/json')
         res.json({
             users:[{
-                name: 'Hcode',
-                email: 'contato@hcode.com.br',
+                name: 'Pedro Gabriel',
+                email: 'pedroxavier@hotmail.com',
                 id: 1
             }]
         });
@@ -16,13 +16,10 @@ module.exports = (app)=>{
     });
     
     
-    app.get('/users/admin', (req, res) => {
+    app.post('/users', (req, res) => {
     
-        res.statusCode = 200;
-        res.setHeader('Content-Type', 'application/json')
-        res.json({
-            users:[]
-        });
+
+        res.json(req.body);
     
     });
     
