@@ -4,3 +4,5 @@
 {"name":"Pedro Xavier","email":"xavier@hotmail.com","password":"12345678my","_id":"fJ7DFp649Vp8bqUe"}
 {"name":"Pedro Gabriel","email":"pedroxavier@hotmail.com","password":"12345678","_id":"hP55LsEqB7lzqFeK"}
 {"name":"Pedro Xavier","email":"xavier@hotmail.com","password":"12345678my","_id":"iGPVfYC1I8eQSsLP"}
+{"name":"Pedro Gabriel Xavier","email":"pedroxavier@hotmail.com","password":"my12345678\n","_id":"iGPVfYC1I8eQSsLP"}
+{"name":"Pedro Gabriel ","email":"pedroxavier@hotmail.com","password":"123456","_id":"iGPVfYC1I8eQSsLP"}
